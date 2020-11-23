@@ -1,14 +1,36 @@
-#video-bg{
-    height: 100%;
-    width: 100%;
-    -o-object-fit: cover;
-    object-fit: cover;
-}
-
-
-
-h3{
+body{
+    background-color: white;
     font-family: kaiti;
     font-size: 16px;
     color: #42b983;
+    height: 100%;
+    width: 100%;
+    overflow-x: hidden;
+}
+.video-bg{
+    background-color: white;
+    min-width: 100%;
+    min-height: 100%;
+    position: fixed;
+    -o-object-fit: cover;
+    background-position: unset;
+    z-index: -9999;
+    top: 0;
+    right: 0;
+    background-repeat: no-repeat;
+    overflow: auto;
+    overflow-x: hidden;
+}
+h1 {
+    align-content: center;
+    line-height: 1%;
+    margin-block-start: 2em;
+    margin-inline-start: 10em;
+    font-size: 4em;
+}
+img {
+    position: fixed;
+    top: 10px;
+    right: 30px;
+    height: 30px;
 }
