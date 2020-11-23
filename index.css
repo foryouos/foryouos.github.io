@@ -13,14 +13,16 @@ body{
     min-height: 100%;
     position: fixed;
     -o-object-fit: cover;
+    object-fit: cover;
     background-position: unset;
     z-index: -9999;
     top: 0;
-    right: 0;
+    left: -228px;
     background-repeat: no-repeat;
     overflow: auto;
     overflow-x: hidden;
 }
+
 h1 {
     align-content: center;
     line-height: 1%;
