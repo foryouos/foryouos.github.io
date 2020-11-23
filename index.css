@@ -1,0 +1,14 @@
+#video-bg{
+    height: 100%;
+    width: 100%;
+    -o-object-fit: cover;
+    object-fit: cover;
+}
+
+
+
+h3{
+    font-family: kaiti;
+    font-size: 16px;
+    color: #42b983;
+}
