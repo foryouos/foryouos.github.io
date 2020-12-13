@@ -2,7 +2,7 @@ body{
     background-color: white;
     font-family: kaiti;
     font-size: 16px;
-    color: #42b983;
+    color: #c1de08;
     height: 100%;
     width: 100%;
     overflow-x: hidden;
@@ -26,7 +26,7 @@ body{
 h1 {
     align-content: center;
     line-height: 1%;
-    margin-block-start: 2em;
+    margin-block-start: 3em;
     margin-inline-start: 10em;
     font-size: 4em;
 }
@@ -35,4 +35,40 @@ img {
     top: 10px;
     right: 30px;
     height: 30px;
+}
+.item1 {
+    position: fixed;
+    top: 290px;
+    right: 62%;
+    height: 100px;
+}
+.span1 {
+    position: fixed;
+    top: 410px;
+    right: 62%;
+    height: 100px;
+}
+.item2 {
+    position: fixed;
+    top: 290px;
+    right: 46%;
+    height: 100px;
+}
+.span2 {
+    position: fixed;
+    top: 410px;
+    right: 46%;
+    height: 100px;
+}
+.item3 {
+    position: fixed;
+    top: 290px;
+    right: 30%;
+    height: 100px;
+}
+.span3 {
+    position: fixed;
+    top: 410px;
+    right: 30%;
+    height: 100px;
 }
