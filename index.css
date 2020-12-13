@@ -7,6 +7,10 @@ body{
     width: 100%;
     overflow-x: hidden;
 }
+
+a:link {
+    color: #c1de08;
+    text-decoration:none;}
 .video-bg{
     background-color: white;
     min-width: 100%;
@@ -71,4 +75,10 @@ img {
     top: 410px;
     right: 30%;
     height: 100px;
+}
+#footer{
+    position: fixed;
+    top: 93%;
+    right: 3%;
+    font-size: 25px;
 }
