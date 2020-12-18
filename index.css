@@ -13,7 +13,7 @@ a:link {
     text-decoration:none;}
 .video-bg{
     background-color: white;
-    max-width: 100%;
+    min-width: 100%;
     min-height: 100%;
     position: fixed;
     -o-object-fit: cover;
