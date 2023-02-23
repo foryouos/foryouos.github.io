@@ -8,8 +8,58 @@
     <author>
       <name>YuHeShui</name>
     </author>
-    <updated>2023-02-23T09:08:09.000Z</updated>
+    <updated>2023-02-23T14:04:51.000Z</updated>
     <category term="瓶子的跋涉" />
+    <entry>
+        <id>https://www.blog.foryouos.cn/computer-science/Git/GitHub%E4%B8%AA%E6%80%A7%E5%8C%96%E8%AE%BE%E7%BD%AE/</id>
+        <title>github个性化设置</title>
+        <link rel="alternate" href="https://www.blog.foryouos.cn/computer-science/Git/GitHub%E4%B8%AA%E6%80%A7%E5%8C%96%E8%AE%BE%E7%BD%AE/"/>
+        <content type="html">&lt;h4 id=&#34;github首页自定义美化&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#github首页自定义美化&#34;&gt;#&lt;/a&gt; Github 首页自定义美化&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;主页名称设置的与自己 id 名字想通&lt;br /&gt;
+&lt;img data-src=&#34;http://mmbiz.qpic.cn/mmbiz_png/ORog4TEnkbtLErS9QZU88YJJ9Kg7ZWTpEN9JwicC7EdA3XiaUtKY9CqTEvia0rD48DqTtCnsNBiaX090mwrbsM6NKg/0?wx_fmt=png&#34; alt=&#34;主页名称设置成自己的名字&#34; /&gt;&lt;/li&gt;
+&lt;li&gt;通过 README.md 就会自动呈现到 GitHub 主页，使用 Markdown 语法&lt;br /&gt;
+&lt;img data-src=&#34;http://mmbiz.qpic.cn/mmbiz_png/ORog4TEnkbtLErS9QZU88YJJ9Kg7ZWTpTeeOuAphVibGp2Vh3TaPE0pqIBXHs67nzKEtrGJCKhVrSKPZxCOF7Qw/0?wx_fmt=png&#34; alt=&#34;修改内容&#34; /&gt;&lt;/li&gt;
+&lt;li&gt;如何使图片位于右边&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre&gt;&lt;code class=&#34;language-HTML&#34;&gt;&amp;lt;img src=&amp;quot;https://user-assets.sxlcdn.com/images/9527/Fnrnj5JtFfuw8x4iP_-7NSZDpUaU.gif&amp;quot; referrerpolicy=&amp;quot;no-referrer&amp;quot; align=&amp;quot;right&amp;quot; &amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zaGllbGRzLmlvLw==&#34;&gt;GitHub 徽章&lt;/span&gt;&lt;sup class=&#34;footnote-ref&#34;&gt;&lt;a href=&#34;#fn1&#34; id=&#34;fnref1&#34;&gt;[1]&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly92aXNpdG9yLWJhZGdlLmdsaXRjaC5tZS8=&#34;&gt;GitHub 访客勋章&lt;/span&gt;&lt;sup class=&#34;footnote-ref&#34;&gt;&lt;a href=&#34;#fn2&#34; id=&#34;fnref2&#34;&gt;[2]&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL3NvbmdxdWFucGVuZy9zdGF0cy1jYXJkcw==&#34;&gt;社交统计&lt;/span&gt;&lt;sup class=&#34;footnote-ref&#34;&gt;&lt;a href=&#34;#fn3&#34; id=&#34;fnref3&#34;&gt;[3]&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;github自定义域名&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#github自定义域名&#34;&gt;#&lt;/a&gt; Github 自定义域名&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3huLS1zZXR0aW5naWQtMWs2bnRmNjRkbzZya3VqOTI4a2phNTBwbGE0NTQyYmVxM2NxYnN5azdib2EuZ2l0aHViLmlv&#34;&gt;进入主项目的 setting 设置个人的项目名 id.github.io&lt;/span&gt;, 在左边的 page 下设置个人域名，在并强制 HTTPS&lt;br /&gt;
+&lt;img data-src=&#34;http://mmbiz.qpic.cn/mmbiz_png/ORog4TEnkbtLErS9QZU88YJJ9Kg7ZWTpdKcqdVRPTH5WNKmFsRCZSLHc6C5x7aN4zXqb20XNMiaric0jj6MVjeAA/0?wx_fmt=png&#34; alt=&#34;GitHub项目名&#34; /&gt;&lt;br /&gt;
+&lt;img data-src=&#34;http://mmbiz.qpic.cn/mmbiz_png/ORog4TEnkbtLErS9QZU88YJJ9Kg7ZWTpTdSPLYqK5yJMkFlu5kCicRnsntxEuqWqnIRzydmhkPN2ccMJccxOYHw/0?wx_fmt=png&#34; alt=&#34;域名设置强制https&#34; /&gt;&lt;/li&gt;
+&lt;li&gt;在域名服务端设置（以百度云为例)&lt;br /&gt;
+ 除了第五个记录值改为自己的其它完全相同&lt;br /&gt;
+&lt;img data-src=&#34;http://mmbiz.qpic.cn/mmbiz_png/ORog4TEnkbtLErS9QZU88YJJ9Kg7ZWTpPk8WqSRJ1Rs1153snU0DyWQh85nfJMqXQvPKGc0FgmjEjSH0RSuLCQ/0?wx_fmt=png&#34; alt=&#34;域名服务端设置&#34; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;https问题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#https问题&#34;&gt;#&lt;/a&gt; https 问题:&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;若设置了 Https，Chrome 浏览器网址左边的没有小黑锁，显示不安全，点 F12 进入开发者选项，看那个链接没有 https，修改即可实现小黑锁，安全。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr class=&#34;footnotes-sep&#34; /&gt;
+&lt;section class=&#34;footnotes&#34;&gt;
+&lt;ol class=&#34;footnotes-list&#34;&gt;
+&lt;li id=&#34;fn1&#34; class=&#34;footnote-item&#34;&gt;&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zaGllbGRzLmlvLw==&#34;&gt;https://shields.io/&lt;/span&gt; &lt;a href=&#34;#fnref1&#34; class=&#34;footnote-backref&#34;&gt;↩︎&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn2&#34; class=&#34;footnote-item&#34;&gt;&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly92aXNpdG9yLWJhZGdlLmdsaXRjaC5tZS8=&#34;&gt;https://visitor-badge.glitch.me/&lt;/span&gt; &lt;a href=&#34;#fnref2&#34; class=&#34;footnote-backref&#34;&gt;↩︎&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn3&#34; class=&#34;footnote-item&#34;&gt;&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL3NvbmdxdWFucGVuZy9zdGF0cy1jYXJkcw==&#34;&gt;https://github.com/songquanpeng/stats-cards&lt;/span&gt; &lt;a href=&#34;#fnref3&#34; class=&#34;footnote-backref&#34;&gt;↩︎&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</content>
+        <category term="计算机科学" scheme="https://www.blog.foryouos.cn/categories/computer-science/" />
+        <category term="Git分布式版本控制" scheme="https://www.blog.foryouos.cn/categories/computer-science/Git/" />
+        <category term="Git" scheme="https://www.blog.foryouos.cn/tags/Git/" />
+        <category term="编程语言" scheme="https://www.blog.foryouos.cn/tags/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/" />
+        <updated>2023-02-23T14:04:51.000Z</updated>
+    </entry>
     <entry>
         <id>https://www.blog.foryouos.cn/computer-science/cpp/course-1/cpp%E6%95%B0%E7%BB%84%E6%8C%87%E9%92%88%E5%AD%97%E7%AC%A6%E4%B8%B2/</id>
         <title>C++数组指针字符串</title>
@@ -909,8 +959,8 @@
 </content>
         <category term="计算机科学" scheme="https://www.blog.foryouos.cn/categories/computer-science/" />
         <category term="Git分布式版本控制" scheme="https://www.blog.foryouos.cn/categories/computer-science/Git/" />
-        <category term="编程序言" scheme="https://www.blog.foryouos.cn/tags/%E7%BC%96%E7%A8%8B%E5%BA%8F%E8%A8%80/" />
         <category term="Git" scheme="https://www.blog.foryouos.cn/tags/Git/" />
+        <category term="编程语言" scheme="https://www.blog.foryouos.cn/tags/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/" />
         <updated>2023-02-23T04:28:05.000Z</updated>
     </entry>
     <entry>

@@ -7,6 +7,19 @@
     "home_page_url": "https://www.blog.foryouos.cn",
     "items": [
         {
+            "id": "https://www.blog.foryouos.cn/computer-science/Git/GitHub%E4%B8%AA%E6%80%A7%E5%8C%96%E8%AE%BE%E7%BD%AE/",
+            "url": "https://www.blog.foryouos.cn/computer-science/Git/GitHub%E4%B8%AA%E6%80%A7%E5%8C%96%E8%AE%BE%E7%BD%AE/",
+            "title": "github个性化设置",
+            "date_published": "2023-02-23T14:04:51.000Z",
+            "content_html": "<h4 id=\"github首页自定义美化\"><a class=\"anchor\" href=\"#github首页自定义美化\">#</a> Github 首页自定义美化</h4>\n<ul>\n<li>主页名称设置的与自己 id 名字想通<br />\n<img data-src=\"http://mmbiz.qpic.cn/mmbiz_png/ORog4TEnkbtLErS9QZU88YJJ9Kg7ZWTpEN9JwicC7EdA3XiaUtKY9CqTEvia0rD48DqTtCnsNBiaX090mwrbsM6NKg/0?wx_fmt=png\" alt=\"主页名称设置成自己的名字\" /></li>\n<li>通过 README.md 就会自动呈现到 GitHub 主页，使用 Markdown 语法<br />\n<img data-src=\"http://mmbiz.qpic.cn/mmbiz_png/ORog4TEnkbtLErS9QZU88YJJ9Kg7ZWTpTeeOuAphVibGp2Vh3TaPE0pqIBXHs67nzKEtrGJCKhVrSKPZxCOF7Qw/0?wx_fmt=png\" alt=\"修改内容\" /></li>\n<li>如何使图片位于右边</li>\n</ul>\n<pre><code class=\"language-HTML\">&lt;img src=&quot;https://user-assets.sxlcdn.com/images/9527/Fnrnj5JtFfuw8x4iP_-7NSZDpUaU.gif&quot; referrerpolicy=&quot;no-referrer&quot; align=&quot;right&quot; &gt;\n</code></pre>\n<ul>\n<li><span class=\"exturl\" data-url=\"aHR0cHM6Ly9zaGllbGRzLmlvLw==\">GitHub 徽章</span><sup class=\"footnote-ref\"><a href=\"#fn1\" id=\"fnref1\">[1]</a></sup></li>\n<li><span class=\"exturl\" data-url=\"aHR0cHM6Ly92aXNpdG9yLWJhZGdlLmdsaXRjaC5tZS8=\">GitHub 访客勋章</span><sup class=\"footnote-ref\"><a href=\"#fn2\" id=\"fnref2\">[2]</a></sup></li>\n<li><span class=\"exturl\" data-url=\"aHR0cHM6Ly9naXRodWIuY29tL3NvbmdxdWFucGVuZy9zdGF0cy1jYXJkcw==\">社交统计</span><sup class=\"footnote-ref\"><a href=\"#fn3\" id=\"fnref3\">[3]</a></sup></li>\n</ul>\n<h4 id=\"github自定义域名\"><a class=\"anchor\" href=\"#github自定义域名\">#</a> Github 自定义域名</h4>\n<ul>\n<li><span class=\"exturl\" data-url=\"aHR0cDovL3huLS1zZXR0aW5naWQtMWs2bnRmNjRkbzZya3VqOTI4a2phNTBwbGE0NTQyYmVxM2NxYnN5azdib2EuZ2l0aHViLmlv\">进入主项目的 setting 设置个人的项目名 id.github.io</span>, 在左边的 page 下设置个人域名，在并强制 HTTPS<br />\n<img data-src=\"http://mmbiz.qpic.cn/mmbiz_png/ORog4TEnkbtLErS9QZU88YJJ9Kg7ZWTpdKcqdVRPTH5WNKmFsRCZSLHc6C5x7aN4zXqb20XNMiaric0jj6MVjeAA/0?wx_fmt=png\" alt=\"GitHub项目名\" /><br />\n<img data-src=\"http://mmbiz.qpic.cn/mmbiz_png/ORog4TEnkbtLErS9QZU88YJJ9Kg7ZWTpTdSPLYqK5yJMkFlu5kCicRnsntxEuqWqnIRzydmhkPN2ccMJccxOYHw/0?wx_fmt=png\" alt=\"域名设置强制https\" /></li>\n<li>在域名服务端设置（以百度云为例)<br />\n 除了第五个记录值改为自己的其它完全相同<br />\n<img data-src=\"http://mmbiz.qpic.cn/mmbiz_png/ORog4TEnkbtLErS9QZU88YJJ9Kg7ZWTpPk8WqSRJ1Rs1153snU0DyWQh85nfJMqXQvPKGc0FgmjEjSH0RSuLCQ/0?wx_fmt=png\" alt=\"域名服务端设置\" /></li>\n</ul>\n<h4 id=\"https问题\"><a class=\"anchor\" href=\"#https问题\">#</a> https 问题:</h4>\n<ul>\n<li>若设置了 Https，Chrome 浏览器网址左边的没有小黑锁，显示不安全，点 F12 进入开发者选项，看那个链接没有 https，修改即可实现小黑锁，安全。</li>\n</ul>\n<hr class=\"footnotes-sep\" />\n<section class=\"footnotes\">\n<ol class=\"footnotes-list\">\n<li id=\"fn1\" class=\"footnote-item\"><p><span class=\"exturl\" data-url=\"aHR0cHM6Ly9zaGllbGRzLmlvLw==\">https://shields.io/</span> <a href=\"#fnref1\" class=\"footnote-backref\">↩︎</a></p>\n</li>\n<li id=\"fn2\" class=\"footnote-item\"><p><span class=\"exturl\" data-url=\"aHR0cHM6Ly92aXNpdG9yLWJhZGdlLmdsaXRjaC5tZS8=\">https://visitor-badge.glitch.me/</span> <a href=\"#fnref2\" class=\"footnote-backref\">↩︎</a></p>\n</li>\n<li id=\"fn3\" class=\"footnote-item\"><p><span class=\"exturl\" data-url=\"aHR0cHM6Ly9naXRodWIuY29tL3NvbmdxdWFucGVuZy9zdGF0cy1jYXJkcw==\">https://github.com/songquanpeng/stats-cards</span> <a href=\"#fnref3\" class=\"footnote-backref\">↩︎</a></p>\n</li>\n</ol>\n</section>\n",
+            "tags": [
+                "计算机科学",
+                "Git分布式版本控制",
+                "Git",
+                "编程语言"
+            ]
+        },
+        {
             "id": "https://www.blog.foryouos.cn/computer-science/cpp/course-1/cpp%E6%95%B0%E7%BB%84%E6%8C%87%E9%92%88%E5%AD%97%E7%AC%A6%E4%B8%B2/",
             "url": "https://www.blog.foryouos.cn/computer-science/cpp/course-1/cpp%E6%95%B0%E7%BB%84%E6%8C%87%E9%92%88%E5%AD%97%E7%AC%A6%E4%B8%B2/",
             "title": "C++数组指针字符串",
@@ -91,8 +104,8 @@
             "tags": [
                 "计算机科学",
                 "Git分布式版本控制",
-                "编程序言",
-                "Git"
+                "Git",
+                "编程语言"
             ]
         },
         {
