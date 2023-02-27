@@ -1407,8 +1407,8 @@ ln hard_link /etc/host   //再次链接回来
             <category term="郑莉老师C++语言程序设计" scheme="https://www.blog.foryouos.cn/categories/computer-science/cpp/course-1/" />
             <category term="编程语言" scheme="https://www.blog.foryouos.cn/tags/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/" />
             <category term="C++" scheme="https://www.blog.foryouos.cn/tags/C/" />
-            <category term="泛化程序设计" scheme="https://www.blog.foryouos.cn/tags/%E6%B3%9B%E5%8C%96%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/" />
             <category term="computer-science" scheme="https://www.blog.foryouos.cn/tags/computer-science/" />
+            <category term="泛化程序设计" scheme="https://www.blog.foryouos.cn/tags/%E6%B3%9B%E5%8C%96%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/" />
             <pubDate>Thu, 23 Feb 2023 12:01:09 +0800</pubDate>
             <description><![CDATA[ &lt;h4 id=&#34;泛型程序设计&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#泛型程序设计&#34;&gt;#&lt;/a&gt; 泛型程序设计&lt;/h4&gt;
 &lt;ul&gt;
