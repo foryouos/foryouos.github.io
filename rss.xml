@@ -13,6 +13,16 @@
         <pubDate>Mon, 27 Feb 2023 09:50:00 +0800</pubDate>
         <lastBuildDate>Mon, 27 Feb 2023 09:50:00 +0800</lastBuildDate>
         <category term="瓶子的跋涉" />
+        <category term="foryouos" />
+        <category term="C++" />
+        <category term="C" />
+        <category term="git" />
+        <category term="编程" />
+        <category term="计算机科学" />
+        <category term="开发" />
+        <category term="QT" />
+        <category term="linux编程" />
+        <category term="" />
         <item>
             <guid isPermalink="true">https://www.blog.foryouos.cn/computer-science/Linux/Linux%E7%A8%8B%E5%BA%8F%E4%B8%8E%E8%BF%9B%E7%A8%8B/</guid>
             <title>线程进程</title>
@@ -451,8 +461,8 @@ ln hard_link /etc/host   //再次链接回来
             <link>https://www.blog.foryouos.cn/computer-science/Git/GitHub%E4%B8%AA%E6%80%A7%E5%8C%96%E8%AE%BE%E7%BD%AE/</link>
             <category term="计算机科学" scheme="https://www.blog.foryouos.cn/categories/computer-science/" />
             <category term="Git分布式版本控制" scheme="https://www.blog.foryouos.cn/categories/computer-science/Git/" />
-            <category term="编程语言" scheme="https://www.blog.foryouos.cn/tags/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/" />
             <category term="Git" scheme="https://www.blog.foryouos.cn/tags/Git/" />
+            <category term="编程语言" scheme="https://www.blog.foryouos.cn/tags/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/" />
             <pubDate>Thu, 23 Feb 2023 22:04:51 +0800</pubDate>
             <description><![CDATA[ &lt;h4 id=&#34;github首页自定义美化&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#github首页自定义美化&#34;&gt;#&lt;/a&gt; Github 首页自定义美化&lt;/h4&gt;
 &lt;ul&gt;
@@ -1309,8 +1319,8 @@ ln hard_link /etc/host   //再次链接回来
             <link>https://www.blog.foryouos.cn/computer-science/Git/Git%E4%BD%BF%E7%94%A8%E8%AF%AD%E6%B3%95/</link>
             <category term="计算机科学" scheme="https://www.blog.foryouos.cn/categories/computer-science/" />
             <category term="Git分布式版本控制" scheme="https://www.blog.foryouos.cn/categories/computer-science/Git/" />
-            <category term="编程语言" scheme="https://www.blog.foryouos.cn/tags/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/" />
             <category term="Git" scheme="https://www.blog.foryouos.cn/tags/Git/" />
+            <category term="编程语言" scheme="https://www.blog.foryouos.cn/tags/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/" />
             <pubDate>Thu, 23 Feb 2023 12:28:05 +0800</pubDate>
             <description><![CDATA[ &lt;h3 id=&#34;git&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#git&#34;&gt;#&lt;/a&gt; Git&lt;/h3&gt;
 &lt;h4 id=&#34;删除分支&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#删除分支&#34;&gt;#&lt;/a&gt; 删除分支&lt;/h4&gt;
