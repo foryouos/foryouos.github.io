@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.blog.foryouos.cn/computer-science/cpp/course-1/cpp%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86/</loc>
+    <lastmod>2023-03-03</lastmod>
+  </url>
+  <url>
     <loc>https://www.blog.foryouos.cn/computer-science/cpp/course-1/cpp%E7%B1%BB%E4%B8%8E%E5%AF%B9%E8%B1%A1/</loc>
     <lastmod>2023-03-01</lastmod>
   </url>
@@ -10,10 +14,6 @@
   </url>
   <url>
     <loc>https://www.blog.foryouos.cn/computer-science/cpp/course-1/cpp%E5%A4%9A%E6%80%81%E6%80%A7/</loc>
-    <lastmod>2023-03-01</lastmod>
-  </url>
-  <url>
-    <loc>https://www.blog.foryouos.cn/computer-science/cpp/course-1/cpp%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86/</loc>
     <lastmod>2023-03-01</lastmod>
   </url>
   <url>
