@@ -155,7 +155,7 @@
 
   
   <url>
-    <loc>https://www.blog.foryouos.cn/tags/Git/</loc>
+    <loc>https://www.blog.foryouos.cn/tags/Linux/</loc>
     <lastmod>2023-03-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -169,7 +169,7 @@
   </url>
   
   <url>
-    <loc>https://www.blog.foryouos.cn/tags/Linux/</loc>
+    <loc>https://www.blog.foryouos.cn/tags/Git/</loc>
     <lastmod>2023-03-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -190,13 +190,6 @@
   </url>
   
   <url>
-    <loc>https://www.blog.foryouos.cn/tags/%E6%B1%87%E7%BC%96/</loc>
-    <lastmod>2023-03-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.blog.foryouos.cn/tags/%E6%8C%87%E9%92%88/</loc>
     <lastmod>2023-03-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -205,6 +198,13 @@
   
   <url>
     <loc>https://www.blog.foryouos.cn/tags/%E6%B3%9B%E5%8C%96%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/</loc>
+    <lastmod>2023-03-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.blog.foryouos.cn/tags/%E6%B1%87%E7%BC%96/</loc>
     <lastmod>2023-03-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -220,14 +220,14 @@
   </url>
   
   <url>
-    <loc>https://www.blog.foryouos.cn/categories/computer-science/Linux/</loc>
+    <loc>https://www.blog.foryouos.cn/categories/computer-science/Git/</loc>
     <lastmod>2023-03-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.blog.foryouos.cn/categories/computer-science/Git/</loc>
+    <loc>https://www.blog.foryouos.cn/categories/computer-science/Linux/</loc>
     <lastmod>2023-03-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -241,14 +241,14 @@
   </url>
   
   <url>
-    <loc>https://www.blog.foryouos.cn/categories/computer-science/cpp/course-2/</loc>
+    <loc>https://www.blog.foryouos.cn/categories/computer-science/cpp/course-1/</loc>
     <lastmod>2023-03-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.blog.foryouos.cn/categories/computer-science/cpp/course-1/</loc>
+    <loc>https://www.blog.foryouos.cn/categories/computer-science/cpp/course-2/</loc>
     <lastmod>2023-03-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
