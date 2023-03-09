@@ -8,10 +8,10 @@
         <author>
           <name>YuHeShui</name>
         </author>
-        <description>破碎的瓶子 &amp; 编程笔记</description>
+        <description>瓶子的跋涉 &amp; 编程笔记</description>
         <language>zh-CN</language>
-        <pubDate>Sun, 05 Mar 2023 14:39:45 +0800</pubDate>
-        <lastBuildDate>Sun, 05 Mar 2023 14:39:45 +0800</lastBuildDate>
+        <pubDate>Thu, 09 Mar 2023 18:20:43 +0800</pubDate>
+        <lastBuildDate>Thu, 09 Mar 2023 18:20:43 +0800</lastBuildDate>
         <category term="瓶子的跋涉" />
         <category term="foryouos" />
         <category term="C++" />
@@ -23,6 +23,94 @@
         <category term="QT" />
         <category term="linux编程" />
         <category term="" />
+        <item>
+            <guid isPermalink="true">https://www.blog.foryouos.cn/computer-science/web/front/Myweb/</guid>
+            <title>我的网站</title>
+            <link>https://www.blog.foryouos.cn/computer-science/web/front/Myweb/</link>
+            <category term="计算机科学" scheme="https://www.blog.foryouos.cn/categories/computer-science/" />
+            <category term="web" scheme="https://www.blog.foryouos.cn/categories/computer-science/web/" />
+            <category term="front" scheme="https://www.blog.foryouos.cn/categories/computer-science/web/front/" />
+            <category term="前端" scheme="https://www.blog.foryouos.cn/tags/%E5%89%8D%E7%AB%AF/" />
+            <category term="web" scheme="https://www.blog.foryouos.cn/tags/web/" />
+            <pubDate>Thu, 09 Mar 2023 18:20:43 +0800</pubDate>
+            <description><![CDATA[ &lt;h3 id=&#34;个人网站&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#个人网站&#34;&gt;#&lt;/a&gt; 个人网站&lt;/h3&gt;
+&lt;h4 id=&#34;网站框架&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#网站框架&#34;&gt;#&lt;/a&gt; 网站框架&lt;/h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;使用 Github 开源框架 &lt;code&gt;Hexo&lt;/code&gt; ，拥有蛮多的优秀好看的 &lt;code&gt;主题&lt;/code&gt; ，使用起来也十分的方便，主题选好就定下来，因为很多主题涉及的相关配置不同，仍需花费一些时间。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://hexo.io/zh-cn/&#34;&gt; &lt;code&gt;hexo官网&lt;/code&gt; &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://hexo.io/zh-cn/docs/&#34;&gt; &lt;code&gt;hexo开发文档&lt;/code&gt; &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://hexo.io/themes/&#34;&gt; &lt;code&gt;hexo主题&lt;/code&gt; &lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;网站服务器&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#网站服务器&#34;&gt;#&lt;/a&gt; 网站服务器&lt;/h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;初步方案使用 &lt;code&gt;Github仓库Page功能存储&lt;/code&gt; 页面内容，但由于国内网速过慢，最终被弃用，也不算是完全弃用，使用了 &lt;code&gt;Cloudflare&lt;/code&gt;  的 Page，后者拥有 &lt;code&gt;全球CDN&lt;/code&gt; ，在速度方便高于 &lt;code&gt;Github&lt;/code&gt; 。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY2xvdWRmbGFyZS1jbi5jb20v&#34;&gt;Cloudflare&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;通过 &lt;code&gt;Cloudflare&lt;/code&gt;  的 Page 功能可以直接绑定 &lt;code&gt;Github仓库&lt;/code&gt; ，实现一建上传， &lt;code&gt;自动同步&lt;/code&gt; 部署 Github 功能，确实挺方便的。 &lt;code&gt;晚上不要部署，会很慢，直到失败&lt;/code&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4 id=&#34;资源后台备份&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#资源后台备份&#34;&gt;#&lt;/a&gt; 资源后台备份&lt;/h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;使用 &lt;code&gt;Github的私有仓库&lt;/code&gt; ，同步所有 &lt;code&gt;Blog笔记&lt;/code&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4 id=&#34;域名解析&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#域名解析&#34;&gt;#&lt;/a&gt; 域名解析&lt;/h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;根据自身购买的域名，使用 Cloudflare Page 推荐的解析方式，同步解析就可以，能够实现 HTTPS&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4 id=&#34;图片存储&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#图片存储&#34;&gt;#&lt;/a&gt; 图片存储&lt;/h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;单纯使用 Github+CloudFlare 方案，页面速度也可以，但是大量的图片使得进入页面的速度，以及即使加载到页面，图片未必能加载出来，速度差强人意&lt;br /&gt;
+使用图床将网站所有需要的背景图，logo 图片存入图床当中，只要图床的速度够快，那速度就完全没有问题&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4 id=&#34;图床推荐&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#图床推荐&#34;&gt;#&lt;/a&gt; 图床推荐&lt;/h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;根据国内访问 &lt;code&gt;速度排序&lt;/code&gt; 由快倒慢，当然网上还有很多&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9pbWd0Zy5jb20v&#34;&gt;img.tg&lt;/span&gt; 其国内访问速度，基本在 1 秒以内，国内 &lt;code&gt;CDN&lt;/code&gt;  加速&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9pbWdzZS5jb20v&#34;&gt;路过图床&lt;/span&gt; 全球 CDN，国内访问速度一般般&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zbW1zLmFwcC8=&#34;&gt;SM.SM&lt;/span&gt; 国际可以，国内一般&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;首页轮换图&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#首页轮换图&#34;&gt;#&lt;/a&gt; 首页轮换图&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;网上寻找壁纸 &lt;code&gt;API&lt;/code&gt; , 调用 &lt;code&gt;API&lt;/code&gt; ，每次返回不同的 &lt;code&gt;img地址&lt;/code&gt; ，自己做，时间问题，还没有实现&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;天气功能&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#天气功能&#34;&gt;#&lt;/a&gt; 天气功能&lt;/h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;使用&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93aWRnZXQucXdlYXRoZXIuY29tLw==&#34;&gt;和风天气&lt;/span&gt;插件嵌入 web 端&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://i.imgtg.com/2023/03/09/YfrjU.png&#34; alt=&#34;image-20230309180534309&#34; /&gt;&lt;/p&gt;
+&lt;h4 id=&#34;网站&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#网站&#34;&gt;#&lt;/a&gt; 网站&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;foryouos&lt;/code&gt; &lt;a href=&#34;https://www.blog.foryouos.cn&#34;&gt; 博客&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;个人博客&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://i.imgtg.com/2023/03/09/YfZyv.png&#34; alt=&#34;image-20230309180243668&#34; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;foryouos&lt;/code&gt; &lt;a href=&#34;www.foryouos.cn&#34;&gt; 主页&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;整合网站信息&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://i.imgtg.com/2023/03/09/Yfvsq.png&#34; alt=&#34;image-20230309180201706&#34; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;foryouos&lt;/code&gt; &lt;a href=&#34;www.so.foryouos.cn&#34;&gt; 导航栏&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;作为和室友们的自定义导航栏 (其实是被迫的，还好确实有好功能)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://i.imgtg.com/2023/03/09/YfKUY.png&#34; alt=&#34;image-20230309175951339&#34; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;详见具体网站&lt;a href=&#34;https://www.github.com/foryouos&#34;&gt; &lt;code&gt;Github&lt;/code&gt; &lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">https://www.blog.foryouos.cn/computer-science/cpp/course-2/cpp%E9%83%A8%E5%88%86%E6%96%B0%E7%89%B9%E5%BE%81%E6%99%BA%E8%83%BD%E6%8C%87%E9%92%88/</guid>
             <title>C++部分新特征</title>

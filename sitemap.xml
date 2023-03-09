@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.blog.foryouos.cn/computer-science/web/front/Myweb/</loc>
+    
+    <lastmod>2023-03-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.blog.foryouos.cn/computer-science/Linux/Linux%E7%A8%8B%E5%BA%8F%E4%B8%8E%E8%BF%9B%E7%A8%8B/</loc>
     
     <lastmod>2023-03-09</lastmod>
@@ -210,6 +219,20 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://www.blog.foryouos.cn/tags/%E5%89%8D%E7%AB%AF/</loc>
+    <lastmod>2023-03-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.blog.foryouos.cn/tags/web/</loc>
+    <lastmod>2023-03-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
@@ -249,6 +272,20 @@
   
   <url>
     <loc>https://www.blog.foryouos.cn/categories/computer-science/cpp/course-2/</loc>
+    <lastmod>2023-03-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.blog.foryouos.cn/categories/computer-science/web/</loc>
+    <lastmod>2023-03-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.blog.foryouos.cn/categories/computer-science/web/front/</loc>
     <lastmod>2023-03-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
