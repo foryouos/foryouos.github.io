@@ -103,7 +103,7 @@
 </content>
         <category term="计算机科学" scheme="https://www.blog.foryouos.cn/categories/computer-science/" />
         <category term="web" scheme="https://www.blog.foryouos.cn/categories/computer-science/web/" />
-        <category term="front" scheme="https://www.blog.foryouos.cn/categories/computer-science/web/front/" />
+        <category term="前端" scheme="https://www.blog.foryouos.cn/categories/computer-science/web/front/" />
         <category term="前端" scheme="https://www.blog.foryouos.cn/tags/%E5%89%8D%E7%AB%AF/" />
         <category term="web" scheme="https://www.blog.foryouos.cn/tags/web/" />
         <updated>2023-03-09T10:20:43.000Z</updated>
