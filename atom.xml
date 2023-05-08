@@ -158,11 +158,11 @@ Makefile--- 自动化编译，只需要一个 make 命令，整个工程完全�
 &lt;blockquote&gt;
 &lt;p&gt;根据上面的代码&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img data-src=&#34;E:%5C%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%5CC-notebook%5CLinux%E7%B3%BB%E7%BB%9F%E7%BC%96%E7%A8%8B%5Cassets%5Cimage-20230424123317849.png&#34; alt=&#34;image-20230424123317849&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;http://mmbiz.qpic.cn/mmbiz_png/ORog4TEnkbtOIzIt3wviaOTmSHf4uYTliaHH1JxE4jeibGNSK8agvqKFKRVflbRUatguU24omMJWpDTnib5GFr6qwg/640?wx_fmt=png&#34; alt=&#34;运行结果&#34; /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;运行结果&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img data-src=&#34;E:%5C%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%5CC-notebook%5CLinux%E7%B3%BB%E7%BB%9F%E7%BC%96%E7%A8%8B%5Cassets%5Cimage-20230424123338546.png&#34; alt=&#34;image-20230424123338546&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;http://mmbiz.qpic.cn/mmbiz_png/ORog4TEnkbtOIzIt3wviaOTmSHf4uYTliaSnFNDGOfTcXicRhOymWKiaglDKaVZqeOYycvy3aqP0hMlu5M8Rpcg4EA/640?wx_fmt=png&#34; alt=&#34;运行结果&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;自动推导&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#自动推导&#34;&gt;#&lt;/a&gt; 自动推导&lt;/h2&gt;
 &lt;blockquote&gt;
 &lt;p&gt;当源文件的编译规则 &lt;code&gt;不明确&lt;/code&gt; 时，make 会使用 &lt;code&gt;默认&lt;/code&gt; 的编译规则，按照默认规则完成对 &lt;code&gt;.c&lt;/code&gt;  文件你的编译， &lt;code&gt;生成&lt;/code&gt; 对应的 &lt;code&gt;.o&lt;/code&gt;  文件，它使用 &lt;code&gt;cc -c&lt;/code&gt;  编译 &lt;code&gt;.c&lt;/code&gt;  源文件。&lt;/p&gt;
