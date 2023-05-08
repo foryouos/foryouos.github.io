@@ -22,7 +22,7 @@
     <category term="" />
     <entry>
         <id>https://www.blog.foryouos.cn/computer-science/Linux/Linux%E7%9A%84Makefile/</id>
-        <title>Makefie</title>
+        <title>Makefile</title>
         <link rel="alternate" href="https://www.blog.foryouos.cn/computer-science/Linux/Linux%E7%9A%84Makefile/"/>
         <content type="html">&lt;h1 id=&#34;静态库&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#静态库&#34;&gt;#&lt;/a&gt; 静态库&lt;/h1&gt;
 &lt;blockquote&gt;
@@ -326,7 +326,7 @@ Makefile--- 自动化编译，只需要一个 make 命令，整个工程完全�
     </entry>
     <entry>
         <id>https://www.blog.foryouos.cn/computer-science/Linux/Linux%E6%96%87%E4%BB%B6/</id>
-        <title>linux入门2</title>
+        <title>linux文件</title>
         <link rel="alternate" href="https://www.blog.foryouos.cn/computer-science/Linux/Linux%E6%96%87%E4%BB%B6/"/>
         <content type="html">&lt;h1 id=&#34;linux文件操作&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#linux文件操作&#34;&gt;#&lt;/a&gt; Linux 文件操作&lt;/h1&gt;
 &lt;h2 id=&#34;open&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#open&#34;&gt;#&lt;/a&gt; Open&lt;/h2&gt;
