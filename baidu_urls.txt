@@ -1,3 +1,4 @@
+https://www.blog.foryouos.cn/computer-science/Linux/Linux%E7%9A%84Makefile/
 https://www.blog.foryouos.cn/computer-science/Linux/Linux%E6%96%87%E4%BB%B6/
 https://www.blog.foryouos.cn/computer-science/cpp/course-5/Qt%E5%A4%9A%E7%BA%BF%E7%A8%8B/
 https://www.blog.foryouos.cn/computer-science/Linux/linux%E5%85%A5%E9%97%A82/
