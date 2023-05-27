@@ -1,6 +1,8 @@
+https://www.blog.foryouos.cn/computer-science/cpp/course-5/Qt%E4%BF%A1%E5%8F%B7%E4%B8%8E%E6%A7%BD/
 https://www.blog.foryouos.cn/computer-science/cpp/course-5/Qt%E5%9F%BA%E7%A1%80%E5%85%A5%E9%97%A8/
 https://www.blog.foryouos.cn/computer-science/Linux/Linux%E7%9A%84Makefile/
 https://www.blog.foryouos.cn/computer-science/Linux/Linux%E6%96%87%E4%BB%B6/
+https://www.blog.foryouos.cn/computer-science/Linux/cmake/
 https://www.blog.foryouos.cn/computer-science/cpp/course-5/Qt%E5%A4%9A%E7%BA%BF%E7%A8%8B/
 https://www.blog.foryouos.cn/computer-science/Linux/linux%E5%85%A5%E9%97%A82/
 https://www.blog.foryouos.cn/computer-science/cpp/course-4/Qt%E5%81%9C%E8%BD%A6%E5%9C%BA%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/
