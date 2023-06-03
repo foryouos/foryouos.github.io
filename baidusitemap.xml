@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.blog.foryouos.cn/computer-science/cpp/course-5/Qt%E5%AE%9E%E7%8E%B0%E4%B8%B2%E5%8F%A3%E9%80%9A%E4%BF%A1/</loc>
+    <lastmod>2023-06-03</lastmod>
+  </url>
+  <url>
+    <loc>https://www.blog.foryouos.cn/computer-science/cpp/course-5/Qt%E4%BA%8B%E4%BB%B6/</loc>
+    <lastmod>2023-06-03</lastmod>
+  </url>
+  <url>
     <loc>https://www.blog.foryouos.cn/computer-science/cpp/course-5/Qt%E7%AA%97%E5%8F%A3%E4%B8%8E%E6%8E%A7%E4%BB%B6/</loc>
-    <lastmod>2023-05-31</lastmod>
+    <lastmod>2023-06-03</lastmod>
   </url>
   <url>
     <loc>https://www.blog.foryouos.cn/computer-science/Linux/cmake/</loc>
