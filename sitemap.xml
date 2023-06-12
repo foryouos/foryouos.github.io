@@ -83,7 +83,7 @@
   </url>
   
   <url>
-    <loc>https://www.blog.foryouos.cn/computer-science/Linux/Linux%E6%96%87%E4%BB%B6/</loc>
+    <loc>https://www.blog.foryouos.cn/computer-science/Linux/linux%E5%85%A5%E9%97%A82/</loc>
     
     <lastmod>2023-05-08</lastmod>
     
@@ -92,9 +92,9 @@
   </url>
   
   <url>
-    <loc>https://www.blog.foryouos.cn/computer-science/Linux/linux%E5%85%A5%E9%97%A82/</loc>
+    <loc>https://www.blog.foryouos.cn/computer-science/Linux/Linux%E6%96%87%E4%BB%B6/</loc>
     
-    <lastmod>2023-04-22</lastmod>
+    <lastmod>2023-05-08</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -418,6 +418,13 @@
   </url>
   
   <url>
+    <loc>https://www.blog.foryouos.cn/tags/STL/</loc>
+    <lastmod>2023-06-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.blog.foryouos.cn/tags/%E6%B1%87%E7%BC%96/</loc>
     <lastmod>2023-06-12</lastmod>
     <changefreq>weekly</changefreq>
@@ -453,7 +460,28 @@
   </url>
   
   <url>
+    <loc>https://www.blog.foryouos.cn/tags/%E7%BA%BF%E7%A8%8B%E6%B1%A0/</loc>
+    <lastmod>2023-06-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.blog.foryouos.cn/tags/C%E9%A1%B9%E7%9B%AE/</loc>
+    <lastmod>2023-06-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.blog.foryouos.cn/tags/C-%E9%A1%B9%E7%9B%AE/</loc>
+    <lastmod>2023-06-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.blog.foryouos.cn/tags/Qt/</loc>
     <lastmod>2023-06-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -473,34 +501,6 @@
     <priority>0.2</priority>
   </url>
   
-  <url>
-    <loc>https://www.blog.foryouos.cn/tags/STL/</loc>
-    <lastmod>2023-06-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.blog.foryouos.cn/tags/Qt/</loc>
-    <lastmod>2023-06-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.blog.foryouos.cn/tags/%E7%BA%BF%E7%A8%8B%E6%B1%A0/</loc>
-    <lastmod>2023-06-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.blog.foryouos.cn/tags/C%E9%A1%B9%E7%9B%AE/</loc>
-    <lastmod>2023-06-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
 
   
   <url>
@@ -511,7 +511,7 @@
   </url>
   
   <url>
-    <loc>https://www.blog.foryouos.cn/categories/life/</loc>
+    <loc>https://www.blog.foryouos.cn/categories/computer-science/Linux/</loc>
     <lastmod>2023-06-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -525,7 +525,7 @@
   </url>
   
   <url>
-    <loc>https://www.blog.foryouos.cn/categories/computer-science/Linux/</loc>
+    <loc>https://www.blog.foryouos.cn/categories/life/</loc>
     <lastmod>2023-06-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -567,7 +567,7 @@
   </url>
   
   <url>
-    <loc>https://www.blog.foryouos.cn/categories/computer-science/web/</loc>
+    <loc>https://www.blog.foryouos.cn/categories/computer-science/cpp/course-5/</loc>
     <lastmod>2023-06-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -581,14 +581,14 @@
   </url>
   
   <url>
-    <loc>https://www.blog.foryouos.cn/categories/computer-science/web/front/</loc>
+    <loc>https://www.blog.foryouos.cn/categories/computer-science/web/</loc>
     <lastmod>2023-06-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.blog.foryouos.cn/categories/computer-science/cpp/course-5/</loc>
+    <loc>https://www.blog.foryouos.cn/categories/computer-science/web/front/</loc>
     <lastmod>2023-06-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
