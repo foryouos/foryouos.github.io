@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.blog.foryouos.cn/life/travel/%E4%B8%87%E5%B2%81%E5%B1%B1%E4%B9%8B%E6%97%85/</loc>
+    <lastmod>2023-06-13</lastmod>
+  </url>
+  <url>
     <loc>https://www.blog.foryouos.cn/computer-science/cpp/course-4/Qt%E5%81%9C%E8%BD%A6%E5%9C%BA%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/</loc>
     <lastmod>2023-06-12</lastmod>
   </url>
@@ -91,10 +95,6 @@
   <url>
     <loc>https://www.blog.foryouos.cn/computer-science/web/front/%E9%9A%8F%E6%9C%BA%E5%9B%BE%E7%89%87API/</loc>
     <lastmod>2023-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://www.blog.foryouos.cn/life/travel/%E4%B8%87%E5%B2%81%E5%B1%B1%E4%B9%8B%E6%97%85/</loc>
-    <lastmod>2023-03-21</lastmod>
   </url>
   <url>
     <loc>https://www.blog.foryouos.cn/computer-science/cpp/course-3/C%E5%92%8CcppMySQL%20API%E8%B0%83%E7%94%A8/</loc>

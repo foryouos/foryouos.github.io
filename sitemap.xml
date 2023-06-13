@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.blog.foryouos.cn/life/travel/%E4%B8%87%E5%B2%81%E5%B1%B1%E4%B9%8B%E6%97%85/</loc>
+    
+    <lastmod>2023-06-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.blog.foryouos.cn/404.html</loc>
     
     <lastmod>2023-06-13</lastmod>
@@ -218,15 +227,6 @@
   </url>
   
   <url>
-    <loc>https://www.blog.foryouos.cn/life/travel/%E4%B8%87%E5%B2%81%E5%B1%B1%E4%B9%8B%E6%97%85/</loc>
-    
-    <lastmod>2023-03-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.blog.foryouos.cn/computer-science/cpp/course-3/C%E5%92%8CcppMySQL%20API%E8%B0%83%E7%94%A8/</loc>
     
     <lastmod>2023-03-19</lastmod>
@@ -380,14 +380,14 @@
 
   
   <url>
-    <loc>https://www.blog.foryouos.cn/tags/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/</loc>
+    <loc>https://www.blog.foryouos.cn/tags/Git/</loc>
     <lastmod>2023-06-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.blog.foryouos.cn/tags/Git/</loc>
+    <loc>https://www.blog.foryouos.cn/tags/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/</loc>
     <lastmod>2023-06-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -592,6 +592,13 @@
   </url>
   
   <url>
+    <loc>https://www.blog.foryouos.cn/categories/computer-science/web/</loc>
+    <lastmod>2023-06-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.blog.foryouos.cn/categories/computer-science/cpp/course-2/</loc>
     <lastmod>2023-06-13</lastmod>
     <changefreq>weekly</changefreq>
@@ -600,13 +607,6 @@
   
   <url>
     <loc>https://www.blog.foryouos.cn/categories/computer-science/cpp/course-3/</loc>
-    <lastmod>2023-06-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.blog.foryouos.cn/categories/computer-science/web/</loc>
     <lastmod>2023-06-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
