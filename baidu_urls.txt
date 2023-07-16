@@ -1,3 +1,6 @@
+https://www.blog.foryouos.cn/Certificate/soft/work/%E8%BF%9B%E5%88%B6%E8%BD%AC%E6%8D%A2/
+https://www.blog.foryouos.cn/Certificate/soft/work/%E7%AC%94%E8%AF%9503%E6%8C%87%E9%92%88%E7%B1%BB%E8%80%83%E9%A2%98/
+https://www.blog.foryouos.cn/Certificate/soft/work/%E5%A4%A7%E7%AB%AF%E5%B0%8F%E7%AB%AF%E5%AD%98%E5%82%A8/
 https://www.blog.foryouos.cn/computer-science/cpp/course-2/%E6%8E%92%E5%BA%8F/
 https://www.blog.foryouos.cn/computer-science/cpp/course-6/Hash/
 https://www.blog.foryouos.cn/Certificate/soft/work/%E7%AC%94%E8%AF%9501/
@@ -45,6 +48,3 @@ https://www.blog.foryouos.cn/computer-science/cpp/course-1/cpp%E6%B3%9B%E5%8C%96
 https://www.blog.foryouos.cn/computer-science/Linux/Linux%E7%A8%8B%E5%BA%8F%E4%B8%8E%E8%BF%9B%E7%A8%8B/
 https://www.blog.foryouos.cn/computer-science/Linux/linux%E5%85%A5%E9%97%A8(1)/
 https://www.blog.foryouos.cn/computer-science/cpp/course-1/cpp%E6%A8%A1%E5%9D%97%E4%B8%8E%E7%BE%A4%E4%BD%93%E6%95%B0%E6%8D%AE/
-https://www.blog.foryouos.cn/computer-science/cpp/course-1/cpp%E5%A4%9A%E6%80%81%E6%80%A7/
-https://www.blog.foryouos.cn/computer-science/cpp/course-1/cpp%E7%B1%BB%E7%9A%84%E7%BB%A7%E6%89%BF/
-https://www.blog.foryouos.cn/computer-science/Git/GitHub%E4%B8%AA%E6%80%A7%E5%8C%96%E8%AE%BE%E7%BD%AE/
