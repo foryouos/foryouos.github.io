@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.blog.foryouos.cn/BIOS/EDK2%E5%85%A5%E5%8F%A3%E5%87%BD%E6%95%B0/</loc>
+    <lastmod>2023-08-14</lastmod>
+  </url>
+  <url>
+    <loc>https://www.blog.foryouos.cn/BIOS/BIOS%E5%B7%A5%E7%A8%8B%E6%A8%A1%E5%9D%97UEFI/</loc>
+    <lastmod>2023-08-14</lastmod>
+  </url>
+  <url>
     <loc>https://www.blog.foryouos.cn/BIOS/C%E6%8C%87%E9%92%88%E6%93%8D%E4%BD%9C%E5%AF%84%E5%AD%98%E5%99%A8/</loc>
     <lastmod>2023-08-09</lastmod>
   </url>
