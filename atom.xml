@@ -398,7 +398,7 @@
 &lt;li&gt;进入 &lt;code&gt;WinHost.exe&lt;/code&gt;  运行对应的 &lt;code&gt;文件名&lt;/code&gt; 即可 &lt;code&gt;运行成功&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
-&lt;figure class=&#34;highlight sh&#34;&gt;&lt;figcaption data-lang=&#34;sh&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;# 输入如下指令，进入根目录&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;FS0:&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;# 输入 Hello 点回车自动补全，即可进入 HelloWorld.efi 输出 UEFI Hello World!&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;Hello.efi&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;&lt;img data-src=&#34;./assets/image-20230801143734101.png&#34; alt=&#34;第一个HelloWorld&#34; /&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight sh&#34;&gt;&lt;figcaption data-lang=&#34;sh&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;# 输入如下指令，进入根目录&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;FS0:&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;# 输入 Hello 点回车自动补全，即可进入 HelloWorld.efi 输出 UEFI Hello World!&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;Hello.efi&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_png/ORog4TEnkbsrTqzTjU1sh2GL0KbQcJdOBDKXvxa8eHEWm55cTXselCIaMraNbjVVI833m3lcQnEeTVSibFo7vhg/640?wx_fmt=png&#34; alt=&#34;第一个HelloWorld&#34; /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;运行结束后，执行 &lt;code&gt;build clean&lt;/code&gt;  清空缓存，以防止 &lt;code&gt;再次编译无法覆盖&lt;/code&gt; 问题。&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -434,7 +434,7 @@
 &lt;li&gt;连接器将目标文件 &lt;code&gt;UefiMain.obj&lt;/code&gt;  和 &lt;code&gt;其他库&lt;/code&gt; 连接成 &lt;code&gt;UefiMain.dll&lt;/code&gt; ( &lt;code&gt;Dynamic Link LIbrary``动态链接库&lt;/code&gt; )&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;GenFW工具&lt;/code&gt; 将 &lt;code&gt;UefiMain.dl&lt;/code&gt;  转换成 &lt;code&gt;UefiMain.efi&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img data-src=&#34;./assets/image-20230803104407974.png&#34; alt=&#34;UEFI编译过程&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://mmbiz.qpic.cn/mmbiz_png/ORog4TEnkbsrTqzTjU1sh2GL0KbQcJdOROIdGqMK0LF4bcKFrGF2m1sOLjA3xictwXU3VXUiakN2MiaUvoZ6skZ4Q/640?wx_fmt=png&#34; alt=&#34;UEFI编译过程&#34; /&gt;&lt;/p&gt;
 &lt;h1 id=&#34;报错解决思路&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#报错解决思路&#34;&gt;#&lt;/a&gt; 报错解决思路&lt;/h1&gt;
 &lt;h2 id=&#34;问题error-7000&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#问题error-7000&#34;&gt;#&lt;/a&gt; 问题 error 7000&lt;/h2&gt;
 &lt;blockquote&gt;
